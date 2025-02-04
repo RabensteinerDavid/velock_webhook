@@ -9,7 +9,7 @@ To run the server correctly, you need to add a `.env` file in the root directory
 ```
 SERVER_PORT='your_server_port_here'
 FIREBASE_SERVICE_ACCOUNT_KEY='your_service_account_key_here'
-FIREBASE_DATABASE_URL='your_firebase_database_url_here'
+FIREBASE_DATABASE_URL='your_directory_file_for_the_serviceAccountKey.json'
 ```
 
 ## Install dependencies 
